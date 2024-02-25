@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963714664816",
+    "project_id": "fivozalearning",
+    "storage_bucket": "fivozalearning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963714664816:android:f125bb0e7f80e4744aa7b5",
+        "android_client_info": {
+          "package_name": "abc.fivoza.fivoza_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBENXUw9PN-RcV2FSF0NR-rdNzO3JinrSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
